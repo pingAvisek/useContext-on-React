@@ -1,4 +1,4 @@
-# Counter app made using ReactJS
+# Use of useContext on ReactJS
 
 An Assignment for FrontEnd Engineer InternShip.
 
